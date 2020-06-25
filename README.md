@@ -1,0 +1,2 @@
+# myjavaprogram
+java -p
